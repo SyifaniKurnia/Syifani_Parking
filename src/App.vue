@@ -1,9 +1,9 @@
 <template>
   <div>
-    <parking-system />
+    <ParkingSystem />
   </div>
 </template>
 
 <script setup>
-import ParkingSystem from "./components/ParkingSystem.vue";
+import ParkingSystem from './components/ParkingSystem.vue';
 </script>
